@@ -1,3 +1,3 @@
 # on-this-day
 
-A perpetual calendar that updates daily and published on the CCA Interactive Resource Center front page. Descriptions are based on a class activity whereby students reviewed their photo libraries and wrote descriptions of memorable events and the date they occurred.
+A perpetual calendar published on the CCA Interactive Resource Center front page. Descriptions are based on an Interactive 2 class activity where students reviewed their personal photo libraries and wrote descriptions of memorable events. The events are published on the same day they occurred in the past.
