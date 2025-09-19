@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Cheltenham";
+  src: url("../fonts/CheltenhamStdLightCond.otf");
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+h1 {
+  font-family: "Cheltenham";
+  text-align: center;
+  font-size: 6vw;
+  font-weight: 400;
+  transform: scaleX(0.75);
+}
+
+@media (max-width: 1000px) {
+  h1 {
+    font-size: 6em;
+    line-height: 1em;
+  }
+}
